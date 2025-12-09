@@ -17,7 +17,7 @@
         </header>
 
         <div class="todo-input">
-            <input type="text" id="task-input" placeholder="Qué vas a hacer hoy?">
+            <input type="text" id="task-input" placeholder="¿Qué vas a hacer hoy?">
             <button id="add-task">
                 <i class="fas fa-plus"></i>
             </button>
@@ -28,14 +28,29 @@
               <span class="filter" data-filter="completed">Completado</span>
         </div>
         <div class="todos-container">
+
+
             <ul id="todos-list">
                 <!-- Las tareas se agregarán acá de forma dinámica-->
+                 <li class="todo-item">
+                    <label class="checkbox-container">
+                        <input type="checkbox" class="todo-checkbox">
+                        <span class="checkmark"></span>
+                    </label>
+                    <span class="todo-item-text">Ir al super</span>
+                    <button class="delete-btn"><i class="fas fa-times"></i></button>
+                 </li>
             </ul>
             <div class="empty-state hidden">
                 <i class="fas fa-clipboard-list"></i>
                 <p>Aún no hay tareas</p>
 
             </div>
+        
+        <footer>
+            <p id="items-left">No quedan tareas pendientes</p>
+            <button id="clear-completed">Borrado completado</button>
+        </footer>
         </div>
     </div>
 
