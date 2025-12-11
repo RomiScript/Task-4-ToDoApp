@@ -1,12 +1,12 @@
-✅ My Tasks – Todo App
+ My Tasks – Todo App
 A simple and responsive Todo List built with HTML, CSS, and JavaScript.
 
 This project is the 4th task of my personal challenge:
 “The 12 Labors of Hercules – Frontend Edition”, where I build 12 progressively more complex projects to strengthen my web development skills.
 
-🌟 Overview
+ Overview
 
-My Tasks is a clean and minimalist Todo App that allows users to:
+Clean and minimalist Todo App that allows users to:
 
 Add new tasks
 
@@ -42,7 +42,7 @@ JavaScript (Vanilla JS)
 
 localStorage for persistence
 
-📂 Features
+ Features
 ✔ Add Tasks
 
 Type a task and press Enter or the + button.
@@ -82,7 +82,7 @@ The app displays the current day in Spanish format.
 <img width="659" height="590" alt="image" src="https://github.com/user-attachments/assets/9ea004a8-96a9-42bf-b0a2-3fe49a0741ed" />
 
 
-📌 JavaScript Highlights
+ JavaScript Highlights
 
 The logic is built around:
 
@@ -110,7 +110,7 @@ loadTodos()
 
 It also features a simple filter system and updates the UI reactively.
 
-🚀 How to Run This Project
+ How to Run This Project
 
 Download or clone the repository
 
@@ -120,7 +120,7 @@ Start adding your tasks!
 
 No installation or dependencies required.
 
-🎯 Purpose of This Project
+ Purpose of This Project
 
 This app was built to practice:
 
@@ -136,7 +136,7 @@ Creating reusable functions
 
 Event-driven programming
 
-🔮 Next Improvements (Optional)
+ Next Improvements (Optional)
 
 Dark / Light mode
 
