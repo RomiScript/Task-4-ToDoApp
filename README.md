@@ -1,4 +1,4 @@
- My Tasks – Todo App
+ Mis Tareas – Todo App
 A simple and responsive Todo List built with HTML, CSS, and JavaScript.
 
 This project is the 4th task of my personal challenge:
